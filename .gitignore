@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Configuration locale et artefacts extraits
+.env
+artifacts/
+.ipynb_checkpoints/
